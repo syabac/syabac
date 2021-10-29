@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @syabac
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me : syabac@gmail.com
 
 <!---
